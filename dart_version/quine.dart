@@ -1,1 +1,0 @@
-main(){String a="main(){String a=:::;print(a.replaceFirst(':::', String.fromCharCode(34) + a + String.fromCharCode(34)));}";print(a.replaceFirst(':::', String.fromCharCode(34) + a + String.fromCharCode(34)));}
